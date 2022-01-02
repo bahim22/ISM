@@ -1,10 +1,10 @@
 
 # Main Landing Page 
 
-## INNER SITY MARKET BUSINESS
+## INNER SITY MARKET 
 
-|__________________________________________________|
-
+| Title | Author | Org |
+| -------|--------|-----|
 | **ISM** | _Hima Balde_ | **Dionysus Era**
 
 ### MARKET LANDING PAGE
